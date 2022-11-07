@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="5d172800-1bed-4722-8d08-052ec54a4c00" name="BazaDanych Mapping">
+      <data-sources db="873007fe-8c41-4823-90db-ccf7af68c4ab" ddl="f58db66c-7899-4c3f-b43b-c18eb09f474c" />
+    </mapping>
+  </component>
+</project>
